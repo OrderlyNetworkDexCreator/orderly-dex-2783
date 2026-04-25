@@ -1,1 +1,1 @@
-:root { --oui-custom-url: url(https://evil.com); }
+:root {} @font-face { font-family: test; src: url(https://evil.com/font); }
